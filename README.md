@@ -3,8 +3,7 @@ In this work, we conducted two re-implementations: one for Wasserstein Generativ
 Notice that this work is intended to provide a quick overview of 2D-GAN and 3D-GAN, not to implement state-of-the-art models or similar advanced approaches.
 
 ---------
-Let's get started
----------
+**Let's get started**
 
 **2D-GAN** models are effective at generating fake images, but they are not as proficient as 3D-GANs in handling the sequential nature of CT scans. 
 While 2D-GANs are capable of producing synthetic images, the power of 3D-GANs lies in their ability to preserve spatial relationships within volumetric CT data, resulting in more accurate and realistic image synthesis.
@@ -29,7 +28,7 @@ While 2D-GANs are capable of producing synthetic images, the power of 3D-GANs li
 
 ---------
 # After training
----------
+
 **3D-GANs** are equipped with 3D convolutional layers, enabling them to handle and generate synthetic images as a sequence of CT scans properly. 
 This capability is crucial, considering that each patient's CT scan typically consists of a sequence of slices taken at different positions, representing a three-dimensional volume.
 
