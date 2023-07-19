@@ -1,5 +1,4 @@
 # Transition From 2D GANs to 3D GANs
----------
 In this work, we conducted two re-implementations: one for Wasserstein Generative Adversarial Network (WGAN) using conv2d layers, and another for 3D-WGAN employing conv3d layers. 
 Notice that this work is intended to provide a quick overview of 2D-GAN and 3D-GAN, not to implement state-of-the-art models or similar advanced approaches.
 
@@ -27,7 +26,11 @@ While 2D-GANs are capable of producing synthetic images, the power of 3D-GANs li
 <img src="https://github.com/Harry-KIT/2d_to_3d/blob/main/assets/ct_scans_for_one_patient.png?raw=true" width="440" height="211">
 
 </p>
- 
+
+---------
+# After training
+---------
+
 ---------
 **3D-GANs** are equipped with 3D convolutional layers, enabling them to handle and generate synthetic images as a sequence of CT scans properly. 
 This capability is crucial, considering that each patient's CT scan typically consists of a sequence of slices taken at different positions, representing a three-dimensional volume.
