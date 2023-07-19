@@ -26,7 +26,6 @@ While 2D-GANs are capable of producing synthetic images, the power of 3D-GANs li
 
 </p>
 
----------
 # After training
 
 **3D-GANs** are equipped with 3D convolutional layers, enabling them to handle and generate synthetic images as a sequence of CT scans properly. 
