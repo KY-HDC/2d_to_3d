@@ -34,7 +34,7 @@ This capability is crucial, considering that each patient's CT scan typically co
 
 <p align="center">
     
-<img src="https://github.com/Harry-KIT/2d_to_3d/blob/main/assets/Figure_2.png?raw=true" width="440" height="211">
+<img src="https://github.com/Harry-KIT/2d_to_3d/blob/main/assets/Figure_2.png?raw=true" width="440" height="200">
 
 </p>
 
@@ -45,7 +45,7 @@ This is particularly valuable in medical imaging, where a comprehensive understa
 
 <p align="center">
     
-<img src="https://github.com/Harry-KIT/2d_to_3d/blob/main/assets/1st_32.jpg?raw=true" width="940" height="211">
+<img src="https://github.com/Harry-KIT/2d_to_3d/blob/main/assets/1st_32.jpg?raw=true" width="940" height="200">
 
 </p>
 <p align="center">
