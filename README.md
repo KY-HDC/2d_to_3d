@@ -45,12 +45,12 @@ This is particularly valuable in medical imaging, where a comprehensive understa
 
 <p align="center">
     
-<img src="https://github.com/Harry-KIT/2d_to_3d/blob/main/assets/1st_32.jpg?raw=true" width="940" height="200">
+<img src="https://github.com/Harry-KIT/2d_to_3d/blob/main/assets/1st_32.jpg?raw=true" width="960" height="200">
 
 </p>
 <p align="center">
     
-<img src="https://github.com/Harry-KIT/2d_to_3d/blob/main/assets/2nd_32.jpg?raw=true" width="940" height="211">
+<img src="https://github.com/Harry-KIT/2d_to_3d/blob/main/assets/2nd_32.jpg?raw=true" width="960" height="211">
 
 </p>
 
