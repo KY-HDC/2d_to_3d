@@ -7,7 +7,10 @@ and instability during training.
 
 | CT-Fake-Image-Samples from 2DGAN |
 | ------|
- <img src="https://github.com/Harry-KIT/2d_to_3d/blob/main/assets/video_2d.gif?raw=true" width="375" height="211">
+<p align="center">
+    <img src="https://github.com/Harry-KIT/2d_to_3d/blob/main/assets/video_2d.gif?raw=true" width="240">
+</p>
+ 
  
 ---------
 **3D-WGAN** (3D Wasserstein Generative Adversarial Network) is a variant of WGAN specifically designed for generating three-dimensional (3D) data, 
@@ -16,7 +19,10 @@ in various applications, including 3D medical imaging, computer graphics, and vi
 
 | CT-Fake-Image-Samples from 3DGAN |
 | ------|
- <img src="https://github.com/Harry-KIT/2d_to_3d/blob/main/assets/video_3d.gif?raw=true" width="375" height="211">
+
+<p align="center">
+    <img src="https://github.com/Harry-KIT/2d_to_3d/blob/main/assets/video_3d.gif?raw=true" width="240">
+</p>
 
 ---------
 
