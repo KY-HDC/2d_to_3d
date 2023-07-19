@@ -16,7 +16,17 @@ While 2D-GANs are capable of producing synthetic images, the power of 3D-GANs li
 <p align="center">
     <img src="https://github.com/Harry-KIT/2d_to_3d/blob/main/assets/video_2d.gif?raw=true" width="240">
 </p>
- 
+
+---------
+
+ A single patient's CT scan consists of approximately 64 slices, where each slice represents a cross-sectional image of the body taken at different positions. 
+ These slices collectively form a volumetric data set, providing a comprehensive 3D view of the patient's anatomy, which is crucial for precise medical diagnosis and treatment planning.
+
+<p align="center">
+    
+<img src="https://github.com/Harry-KIT/2d_to_3d/blob/main/assets/ct_scans_for_one_patient.png?raw=true" width="440" height="211">
+
+</p>
  
 ---------
 **3D-GANs** are equipped with 3D convolutional layers, enabling them to handle and generate synthetic images as a sequence of CT scans properly. 
