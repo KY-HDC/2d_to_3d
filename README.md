@@ -4,13 +4,9 @@
 **2D-WGAN** is a variant of the Generative Adversarial Network (GAN) framework that introduces the Wasserstein distance as a measure of discrepancy 
 between the generated and real data distributions. WGAN aims to address some of the limitations of traditional GANs, such as mode collapse 
 and instability during training.
-
-<p align="center">
     
 | CT-Fake-Image-Samples from 2DGAN |
 | ------|
-
-</p>
 
 <p align="center">
     <img src="https://github.com/Harry-KIT/2d_to_3d/blob/main/assets/video_2d.gif?raw=true" width="240">
@@ -37,6 +33,7 @@ in various applications, including 3D medical imaging, computer graphics, and vi
 
 **References**
 ---------
-https://github.com/eriklindernoren/PyTorch-GAN
-https://github.com/cyclomon/3dbraingen
-https://github.com/hasibzunair/3D-image-classification-tutorial
+* https://github.com/eriklindernoren/PyTorch-GAN
+* https://github.com/cyclomon/3dbraingen
+* https://github.com/hasibzunair/3D-image-classification-tutorial
+* [DATASET](https://github.com/hasibzunair/3D-image-classification-tutorial/releases/tag/v0.2)
