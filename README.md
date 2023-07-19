@@ -24,7 +24,7 @@ This capability is crucial, considering that each patient's CT scan typically co
 
 <p align="center">
     
-    <img src="https://github.com/Harry-KIT/2d_to_3d/blob/main/assets/Figure_2.png?raw=true" width="240">
+<img src="https://github.com/Harry-KIT/2d_to_3d/blob/main/assets/Figure_2.png?raw=true" width="240" height="211">
 
 </p>
 
