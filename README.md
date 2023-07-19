@@ -54,7 +54,7 @@ This is particularly valuable in medical imaging, where a comprehensive understa
 </p>
 
 In summary, 3D-GANs are well-suited for generating synthetic CT scans due to their ability to process and maintain the spatial continuity of volumetric data, making them a valuable tool 
-for medical image synthesis and enhancing various tasks in the field of radiology and patient care.
+for medical image synthesis.
 
 | CT-Fake-Image-Samples from 3DGAN |
 | ------|
